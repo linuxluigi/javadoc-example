@@ -41,5 +41,5 @@ crashlytics-build.properties
 fabric.properties
 
 # env
-#/env
-#/venv
+/env
+/venv
